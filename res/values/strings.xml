@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">A Product by the UC Berkeley Avengers</string>
+    <string name="app_name">DeployDroid</string>
+    
+    <string name="about"> DeployDroid (working title) is an enterprise solution for groups trying to manage numerous engineering installations on a budget.
+         Our platform will connect any Android smartphone or tablet to a microcontroller that can collect data and issue instructions to connected
+         equipment. Turn your Android into a remote sensor and controller. Deploy it anywhere. </string>
+</resources>
